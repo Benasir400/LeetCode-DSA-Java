@@ -21,4 +21,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
