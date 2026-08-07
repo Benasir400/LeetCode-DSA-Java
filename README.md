@@ -18,6 +18,7 @@
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0496-next-greater-element-i/) | Easy |
 | [0575-distribute-candies](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0575-distribute-candies/) | Easy |
+| [0819-most-common-word](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0819-most-common-word/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -36,6 +37,7 @@
 | ------- | ------- |
 | [0290-word-pattern](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0290-word-pattern/) | Easy |
 | [0520-detect-capital](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0520-detect-capital/) | Easy |
+| [0819-most-common-word](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0819-most-common-word/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -60,6 +62,7 @@
 | [0290-word-pattern](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0290-word-pattern/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0496-next-greater-element-i/) | Easy |
 | [0575-distribute-candies](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0575-distribute-candies/) | Easy |
+| [0819-most-common-word](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0819-most-common-word/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,4 +79,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0496-next-greater-element-i/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0819-most-common-word](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0819-most-common-word/) | Easy |
 <!---LeetCode Topics End-->
