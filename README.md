@@ -16,6 +16,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0496-next-greater-element-i/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -56,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0290-word-pattern](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0290-word-pattern/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0496-next-greater-element-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +66,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0496-next-greater-element-i/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
