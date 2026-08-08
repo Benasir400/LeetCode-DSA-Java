@@ -16,6 +16,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0496-next-greater-element-i/) | Easy |
 | [0575-distribute-candies](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0575-distribute-candies/) | Easy |
 | [0819-most-common-word](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0819-most-common-word/) | Easy |
@@ -61,6 +62,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0290-word-pattern](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0290-word-pattern/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0496-next-greater-element-i/) | Easy |
 | [0575-distribute-candies](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0575-distribute-candies/) | Easy |
@@ -87,4 +89,8 @@
 | ------- | ------- |
 | [0819-most-common-word](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0819-most-common-word/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1512-number-of-good-pairs/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
