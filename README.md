@@ -16,6 +16,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0496-next-greater-element-i/) | Easy |
 | [0575-distribute-candies](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0575-distribute-candies/) | Easy |
@@ -103,4 +104,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
