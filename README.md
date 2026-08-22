@@ -44,6 +44,7 @@
 | [2652-sum-multiples](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2652-sum-multiples/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
