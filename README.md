@@ -40,6 +40,7 @@
 | [1510-stone-game-iv](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1510-stone-game-iv/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1563-stone-game-v](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2029-stone-game-ix/) | Medium |
 | [2652-sum-multiples](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2652-sum-multiples/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -55,11 +56,13 @@
 | [0290-word-pattern](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0290-word-pattern/) | Easy |
 | [0520-detect-capital](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0520-detect-capital/) | Easy |
 | [0819-most-common-word](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0819-most-common-word/) | Easy |
+| [1927-sum-game](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1927-sum-game/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1927-sum-game](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2029-stone-game-ix/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -160,6 +163,7 @@
 | [1140-stone-game-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
