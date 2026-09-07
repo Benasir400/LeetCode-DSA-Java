@@ -18,6 +18,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0496-next-greater-element-i/) | Easy |
@@ -93,6 +94,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0290-word-pattern](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0290-word-pattern/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0496-next-greater-element-i/) | Easy |
 | [0575-distribute-candies](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0575-distribute-candies/) | Easy |
@@ -198,4 +200,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
