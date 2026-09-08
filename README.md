@@ -78,6 +78,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0520-detect-capital](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0520-detect-capital/) | Easy |
+| [0567-permutation-in-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0647-palindromic-substrings/) | Medium |
 | [0819-most-common-word](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0819-most-common-word/) | Easy |
 | [1927-sum-game](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1927-sum-game/) | Medium |
@@ -119,6 +120,7 @@
 | [0290-word-pattern](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0290-word-pattern/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0496-next-greater-element-i/) | Easy |
+| [0567-permutation-in-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0567-permutation-in-string/) | Medium |
 | [0575-distribute-candies](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0575-distribute-candies/) | Easy |
 | [0819-most-common-word](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0819-most-common-word/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -160,6 +162,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0148-sort-list](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0647-palindromic-substrings/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Dynamic Programming
@@ -241,6 +244,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0567-permutation-in-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0567-permutation-in-string/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
