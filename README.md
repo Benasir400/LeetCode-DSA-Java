@@ -68,6 +68,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0290-word-pattern](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0290-word-pattern/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0520-detect-capital](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0520-detect-capital/) | Easy |
 | [0819-most-common-word](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0819-most-common-word/) | Easy |
 | [1927-sum-game](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1927-sum-game/) | Medium |
@@ -149,6 +150,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1140-stone-game-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1563-stone-game-v/) | Hard |
