@@ -10,11 +10,7 @@ class Solution {
         {
             g=gcd(g,f);
         }
-        if(g>1)
-        {
-            return true;
-        }
-        return false;
+        return g>1;
     }
     public int gcd(int a,int b)
     {
