@@ -33,6 +33,7 @@
 | [0575-distribute-candies](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0575-distribute-candies/) | Easy |
 | [0724-find-pivot-index](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0724-find-pivot-index/) | Easy |
 | [0819-most-common-word](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0819-most-common-word/) | Easy |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1140-stone-game-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1140-stone-game-ii/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -51,6 +52,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0009-palindrome-number/) | Easy |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1140-stone-game-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1140-stone-game-ii/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
@@ -138,6 +140,7 @@
 | [0567-permutation-in-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0567-permutation-in-string/) | Medium |
 | [0575-distribute-candies](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0575-distribute-candies/) | Easy |
 | [0819-most-common-word](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0819-most-common-word/) | Easy |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -150,6 +153,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -165,6 +169,7 @@
 | [0169-majority-element](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0169-majority-element/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0819-most-common-word](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0819-most-common-word/) | Easy |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2029-stone-game-ix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2029-stone-game-ix/) | Medium |
 ## Matrix
@@ -312,9 +317,11 @@
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 <!---LeetCode Topics End-->
