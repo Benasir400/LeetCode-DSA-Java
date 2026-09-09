@@ -55,6 +55,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1140-stone-game-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1140-stone-game-ii/) | Medium |
+| [1201-ugly-number-iii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1201-ugly-number-iii/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1510-stone-game-iv](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1510-stone-game-iv/) | Hard |
@@ -154,6 +155,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1201-ugly-number-iii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1201-ugly-number-iii/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -207,6 +209,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1201-ugly-number-iii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1201-ugly-number-iii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,9 +322,23 @@
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1201-ugly-number-iii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1201-ugly-number-iii/) | Medium |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1201-ugly-number-iii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1201-ugly-number-iii/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1201-ugly-number-iii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1201-ugly-number-iii/) | Medium |
+## Least Common Multiple
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1201-ugly-number-iii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1201-ugly-number-iii/) | Medium |
+## Inclusion-Exclusion Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1201-ugly-number-iii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1201-ugly-number-iii/) | Medium |
 <!---LeetCode Topics End-->
