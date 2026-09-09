@@ -20,6 +20,7 @@
 | [0014-longest-common-prefix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -106,6 +107,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0056-merge-intervals/) | Medium |
 | [0148-sort-list](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0169-majority-element/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -300,4 +302,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0169-majority-element/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
