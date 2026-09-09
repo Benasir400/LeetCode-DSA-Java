@@ -28,6 +28,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0169-majority-element](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0169-majority-element/) | Easy |
+| [0204-count-primes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0496-next-greater-element-i/) | Easy |
 | [0575-distribute-candies](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0575-distribute-candies/) | Easy |
@@ -52,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0009-palindrome-number/) | Easy |
+| [0204-count-primes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0204-count-primes/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1140-stone-game-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1140-stone-game-ii/) | Medium |
@@ -74,6 +76,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0204-count-primes/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -154,6 +157,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0204-count-primes/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1201-ugly-number-iii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1201-ugly-number-iii/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -341,4 +345,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1201-ugly-number-iii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1201-ugly-number-iii/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
