@@ -223,6 +223,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0148-sort-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0206-reverse-linked-list/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -374,4 +375,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
