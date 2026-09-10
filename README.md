@@ -45,6 +45,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3024-type-of-triangle](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3024-type-of-triangle/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -68,6 +69,7 @@
 | [1927-sum-game](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2029-stone-game-ix/) | Medium |
 | [2652-sum-multiples](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2652-sum-multiples/) | Easy |
+| [3024-type-of-triangle](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3024-type-of-triangle/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -123,6 +125,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3024-type-of-triangle](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3024-type-of-triangle/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -358,4 +361,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0204-count-primes/) | Medium |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3024-type-of-triangle](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3024-type-of-triangle/) | Easy |
 <!---LeetCode Topics End-->
