@@ -49,9 +49,9 @@ class Solution {
                 }
             }
 
-            ans.add(0,level);
+            ans.add(level);
         }
-
+        Collections.reverse(ans);
         return ans;
     }
 }
