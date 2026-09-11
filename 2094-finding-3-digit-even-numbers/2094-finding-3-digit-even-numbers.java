@@ -1,0 +1,23 @@
+class Solution {
+    public int[] findEvenNumbers(int[] digits) {
+         HashSet<Integer> set=new HashSet<>();
+        for(int i=0;i<digits.length;i++)
+        {
+           for(int j=0;j<digits.length;j++)
+           {
+            for(int k=0;k<digits.length;k++)
+            {
+                if(i!=j && j!=k && k!=i)
+                {
+                   if(digits[i]==0 || digits[k]%2!=0) continue;
+                   int num=digits[i]*100+digits[j]*10+digits[k];
+                   set.add(num);
+                }
+            }
+           }
+        }
+        int[] arr = set.stream().mapToInt(Integer::intValue).toArray();
+        Arrays.sort(arr);
+        return arr;
+    }
+}
