@@ -4,12 +4,14 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
@@ -383,11 +385,13 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Recursion
