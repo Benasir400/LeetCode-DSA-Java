@@ -44,6 +44,7 @@
 | [1872-stone-game-viii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2029-stone-game-ix/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3024-type-of-triangle](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3024-type-of-triangle/) | Easy |
@@ -82,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0204-count-primes/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## String
@@ -126,6 +128,7 @@
 | [0148-sort-list](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0169-majority-element/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3024-type-of-triangle](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3024-type-of-triangle/) | Easy |
@@ -153,6 +156,7 @@
 | [0819-most-common-word](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0819-most-common-word/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -384,5 +388,6 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0206-reverse-linked-list/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
