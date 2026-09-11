@@ -48,6 +48,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3024-type-of-triangle](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3024-type-of-triangle/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -82,6 +83,7 @@
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0204-count-primes/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +155,7 @@
 | [1512-number-of-good-pairs](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -381,4 +384,5 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0206-reverse-linked-list/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
