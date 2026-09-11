@@ -92,6 +92,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0058-length-of-last-word/) | Easy |
@@ -176,6 +177,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0020-valid-parentheses/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -390,4 +392,8 @@
 | [0206-reverse-linked-list](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0206-reverse-linked-list/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
