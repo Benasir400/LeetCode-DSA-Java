@@ -12,6 +12,7 @@
 | [0226-invert-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -25,6 +26,7 @@
 | [0112-path-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0226-invert-binary-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0994-rotting-oranges](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0994-rotting-oranges/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
@@ -410,6 +412,7 @@
 | [0226-invert-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -426,6 +429,7 @@
 | [0226-invert-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -458,6 +462,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Lifting
 | Problem Name | Difficulty |
