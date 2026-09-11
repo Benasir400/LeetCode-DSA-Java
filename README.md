@@ -10,6 +10,7 @@
 | [0112-path-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -406,6 +407,7 @@
 | [0112-path-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -420,6 +422,7 @@
 | [0112-path-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -450,5 +453,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
