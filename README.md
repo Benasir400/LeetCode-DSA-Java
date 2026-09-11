@@ -78,6 +78,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0009-palindrome-number/) | Easy |
+| [0069-sqrtx](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0069-sqrtx/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0204-count-primes/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -247,6 +248,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -476,4 +478,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
