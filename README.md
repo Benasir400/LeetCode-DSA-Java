@@ -405,6 +405,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -417,6 +418,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -441,4 +443,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
