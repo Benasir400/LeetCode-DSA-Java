@@ -15,6 +15,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0547-number-of-provinces/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
@@ -28,11 +29,13 @@
 | [0199-binary-tree-right-side-view](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0547-number-of-provinces](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0547-number-of-provinces/) | Medium |
 | [0994-rotting-oranges](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0994-rotting-oranges/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0547-number-of-provinces/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -315,6 +318,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0547-number-of-provinces](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0547-number-of-provinces/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
