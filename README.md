@@ -11,6 +11,7 @@
 | [0133-clone-graph](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0207-course-schedule](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -31,6 +32,7 @@
 | [0133-clone-graph](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0207-course-schedule](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0547-number-of-provinces/) | Medium |
@@ -41,6 +43,7 @@
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0547-number-of-provinces/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Array
@@ -497,6 +500,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0210-course-schedule-ii/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
