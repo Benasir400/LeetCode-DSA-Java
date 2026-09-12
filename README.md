@@ -37,6 +37,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0547-number-of-provinces/) | Medium |
 | [0994-rotting-oranges](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0994-rotting-oranges/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -69,6 +70,7 @@
 | [0819-most-common-word](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0819-most-common-word/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0994-rotting-oranges](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0994-rotting-oranges/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1140-stone-game-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1140-stone-game-ii/) | Medium |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -233,6 +235,7 @@
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0994-rotting-oranges](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0994-rotting-oranges/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
