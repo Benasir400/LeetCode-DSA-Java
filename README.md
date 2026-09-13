@@ -275,6 +275,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0011-container-with-most-water/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0141-linked-list-cycle/) | Easy |
@@ -309,6 +310,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0148-sort-list/) | Medium |
