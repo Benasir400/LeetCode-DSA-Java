@@ -19,6 +19,7 @@
 | [0226-invert-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0257-binary-tree-paths/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -144,6 +145,7 @@
 | [0058-length-of-last-word](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0058-length-of-last-word/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0290-word-pattern/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -214,6 +216,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0257-binary-tree-paths/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -452,6 +455,7 @@
 | [0226-invert-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0257-binary-tree-paths/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -474,6 +478,7 @@
 | [0226-invert-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0257-binary-tree-paths/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0543-diameter-of-binary-tree/) | Easy |
