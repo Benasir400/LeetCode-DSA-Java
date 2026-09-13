@@ -66,6 +66,7 @@
 | [0011-container-with-most-water](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0046-permutations](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0057-insert-interval/) | Medium |
@@ -239,6 +240,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0078-subsets/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0257-binary-tree-paths/) | Easy |
