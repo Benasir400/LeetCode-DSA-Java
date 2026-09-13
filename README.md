@@ -106,6 +106,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0009-palindrome-number/) | Easy |
+| [0067-add-binary](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0069-sqrtx/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0204-count-primes/) | Medium |
@@ -147,6 +148,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0067-add-binary/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0257-binary-tree-paths/) | Easy |
@@ -196,6 +198,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0067-add-binary/) | Easy |
 | [0415-add-strings](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0415-add-strings/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Hash Table
@@ -356,6 +359,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0067-add-binary/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
