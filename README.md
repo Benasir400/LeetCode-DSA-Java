@@ -210,6 +210,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0133-clone-graph/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0169-majority-element/) | Easy |
 | [0290-word-pattern](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0290-word-pattern/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -276,6 +277,7 @@
 | [0011-container-with-most-water](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0011-container-with-most-water/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0075-sort-colors/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0567-permutation-in-string/) | Medium |
@@ -308,6 +310,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0206-reverse-linked-list/) | Easy |
 ## Divide and Conquer
@@ -571,4 +574,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0075-sort-colors/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
