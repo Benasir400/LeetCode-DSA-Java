@@ -67,6 +67,7 @@
 | [0056-merge-intervals](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0075-sort-colors](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0075-sort-colors/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -177,6 +178,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0169-majority-element/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -264,6 +266,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0011-container-with-most-water/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0075-sort-colors](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0567-permutation-in-string/) | Medium |
@@ -406,6 +409,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0075-sort-colors/) | Medium |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -553,4 +557,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
