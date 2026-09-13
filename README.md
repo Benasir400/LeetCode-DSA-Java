@@ -77,6 +77,7 @@
 | [0496-next-greater-element-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0496-next-greater-element-i/) | Easy |
 | [0542-01-matrix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0542-01-matrix/) | Medium |
 | [0575-distribute-candies](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0575-distribute-candies/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0724-find-pivot-index/) | Easy |
 | [0819-most-common-word](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0819-most-common-word/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -357,6 +358,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0567-permutation-in-string/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
