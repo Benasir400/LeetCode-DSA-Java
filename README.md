@@ -170,6 +170,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0290-word-pattern/) | Easy |
+| [0344-reverse-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0344-reverse-string/) | Easy |
 | [0415-add-strings](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -309,6 +310,7 @@
 | [0141-linked-list-cycle](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0344-reverse-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0647-palindromic-substrings/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
