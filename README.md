@@ -657,6 +657,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0175-combine-two-tables/) | Easy |
+| [0178-rank-scores](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0178-rank-scores/) | Medium |
 | [0182-duplicate-emails](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0182-duplicate-emails/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 <!---LeetCode Topics End-->
