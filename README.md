@@ -105,6 +105,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1563-stone-game-v](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1563-stone-game-v/) | Hard |
+| [1672-richest-customer-wealth](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1872-stone-game-viii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2029-stone-game-ix/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -301,6 +302,7 @@
 | [0542-01-matrix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
