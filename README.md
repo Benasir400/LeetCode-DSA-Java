@@ -653,4 +653,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1143-longest-common-subsequence/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0182-duplicate-emails](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
