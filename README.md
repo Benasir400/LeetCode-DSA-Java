@@ -86,6 +86,7 @@
 | [0204-count-primes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0496-next-greater-element-i/) | Easy |
@@ -208,6 +209,7 @@
 | [0148-sort-list](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -235,6 +237,7 @@
 | [0133-clone-graph](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0133-clone-graph/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0290-word-pattern](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0424-longest-repeating-character-replacement/) | Medium |
