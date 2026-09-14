@@ -172,6 +172,7 @@
 | [0125-valid-palindrome](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0344-reverse-string/) | Easy |
@@ -210,6 +211,7 @@
 | [0169-majority-element](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -238,6 +240,7 @@
 | [0141-linked-list-cycle](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0424-longest-repeating-character-replacement/) | Medium |
