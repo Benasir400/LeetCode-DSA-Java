@@ -4,6 +4,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0100-same-tree/) | Easy |
@@ -75,6 +76,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0090-subsets-ii/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -163,6 +165,7 @@
 | [0049-group-anagrams](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0067-add-binary/) | Easy |
+| [0079-word-search](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0257-binary-tree-paths/) | Easy |
@@ -250,6 +253,7 @@
 | [0039-combination-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0257-binary-tree-paths/) | Easy |
@@ -290,6 +294,7 @@
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0079-word-search](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0079-word-search/) | Medium |
 | [0542-01-matrix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
