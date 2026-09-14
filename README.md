@@ -117,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0009-palindrome-number/) | Easy |
+| [0062-unique-paths](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0062-unique-paths/) | Medium |
 | [0067-add-binary](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0069-sqrtx/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0172-factorial-trailing-zeroes/) | Medium |
@@ -308,6 +309,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0062-unique-paths](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0062-unique-paths/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -471,6 +473,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0062-unique-paths/) | Medium |
 | [1201-ugly-number-iii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1201-ugly-number-iii/) | Medium |
 ## Least Common Multiple
 | Problem Name | Difficulty |
