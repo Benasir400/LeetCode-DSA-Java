@@ -93,6 +93,7 @@
 | [0542-01-matrix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0575-distribute-candies](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0575-distribute-candies/) | Easy |
+| [0605-can-place-flowers](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0739-daily-temperatures/) | Medium |
@@ -195,6 +196,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0605-can-place-flowers](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0605-can-place-flowers/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1927-sum-game](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2029-stone-game-ix/) | Medium |
