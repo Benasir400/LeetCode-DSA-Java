@@ -87,6 +87,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0496-next-greater-element-i/) | Easy |
@@ -323,6 +324,7 @@
 | [0141-linked-list-cycle](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0283-move-zeroes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0647-palindromic-substrings/) | Medium |
