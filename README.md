@@ -132,6 +132,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0204-count-primes/) | Medium |
 | [0415-add-strings](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0415-add-strings/) | Easy |
+| [0507-perfect-number](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0507-perfect-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0836-rectangle-overlap/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
