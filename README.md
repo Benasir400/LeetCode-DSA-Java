@@ -119,6 +119,7 @@
 | [3024-type-of-triangle](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3024-type-of-triangle/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -150,6 +151,7 @@
 | [3024-type-of-triangle](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3024-type-of-triangle/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3871-count-commas-in-range-ii/) | Medium |
