@@ -192,6 +192,7 @@
 | [0819-most-common-word](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0819-most-common-word/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1927-sum-game](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1927-sum-game/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -203,6 +204,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0605-can-place-flowers](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0605-can-place-flowers/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1927-sum-game](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2029-stone-game-ix/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2706-buy-two-chocolates/) | Easy |
@@ -292,6 +294,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0739-daily-temperatures/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -587,6 +590,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0020-valid-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
