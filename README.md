@@ -277,6 +277,7 @@
 | [0090-subsets-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0257-binary-tree-paths/) | Easy |
+| [0401-binary-watch](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0401-binary-watch/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -431,6 +432,7 @@
 | [0067-add-binary](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0090-subsets-ii/) | Medium |
+| [0401-binary-watch](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0401-binary-watch/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
