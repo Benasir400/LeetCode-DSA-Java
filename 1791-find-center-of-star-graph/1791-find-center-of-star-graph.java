@@ -1,5 +1,4 @@
 class Solution {
-    List<List<Integer>> graph=new ArrayList<>();
     public int findCenter(int[][] edges) {
         if(edges[0][0]==edges[1][0] || edges[0][0]==edges[1][1])
         {
