@@ -62,6 +62,7 @@
 | [0547-number-of-provinces](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1791-find-center-of-star-graph](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Array
