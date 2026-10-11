@@ -11,6 +11,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0112-path-sum/) | Easy |
+| [0130-surrounded-regions](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0133-clone-graph/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -39,6 +40,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0112-path-sum/) | Easy |
+| [0130-surrounded-regions](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0207-course-schedule](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0207-course-schedule/) | Medium |
@@ -86,6 +88,7 @@
 | [0090-subsets-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0090-subsets-ii/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0130-surrounded-regions/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0169-majority-element](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0169-majority-element/) | Easy |
@@ -324,6 +327,7 @@
 | [0064-minimum-path-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0079-word-search/) | Medium |
+| [0130-surrounded-regions](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0130-surrounded-regions/) | Medium |
 | [0542-01-matrix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -445,6 +449,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0785-is-graph-bipartite/) | Medium |
