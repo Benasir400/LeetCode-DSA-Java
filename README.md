@@ -99,6 +99,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -410,6 +411,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0724-find-pivot-index/) | Easy |
 | [1140-stone-game-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1140-stone-game-ii/) | Medium |
