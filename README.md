@@ -83,6 +83,7 @@
 | [0049-group-anagrams](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0057-insert-interval/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0075-sort-colors/) | Medium |
@@ -336,6 +337,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0079-word-search/) | Medium |
@@ -367,6 +369,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0062-unique-paths](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0064-minimum-path-sum/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0131-palindrome-partitioning/) | Medium |
