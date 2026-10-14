@@ -151,6 +151,7 @@
 | [0507-perfect-number](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0507-perfect-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0836-rectangle-overlap/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1025-divisor-game](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1025-divisor-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1140-stone-game-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1140-stone-game-ii/) | Medium |
 | [1201-ugly-number-iii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1201-ugly-number-iii/) | Medium |
@@ -373,6 +374,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0542-01-matrix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0542-01-matrix/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0647-palindromic-substrings/) | Medium |
+| [1025-divisor-game](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1025-divisor-game/) | Easy |
 | [1140-stone-game-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1510-stone-game-iv](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1510-stone-game-iv/) | Hard |
@@ -428,6 +430,7 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1025-divisor-game](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1025-divisor-game/) | Easy |
 | [1140-stone-game-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1563-stone-game-v/) | Hard |
@@ -704,4 +707,12 @@
 | [0184-department-highest-salary](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0184-department-highest-salary/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0585-investments-in-2016](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0585-investments-in-2016/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1025-divisor-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
