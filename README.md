@@ -138,6 +138,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
