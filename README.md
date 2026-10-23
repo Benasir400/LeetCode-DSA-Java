@@ -135,6 +135,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -466,6 +467,7 @@
 | [0090-subsets-ii](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0090-subsets-ii/) | Medium |
 | [0401-binary-watch](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/0401-binary-watch/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Benasir400/LeetCode-DSA-Java/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
